@@ -23,3 +23,8 @@
     font-weight: 500;
     font-family: Poppins med;
 }
+@font-face{
+    src: url(./fonts/SourceSansPro-Italic.ttf);
+    font-weight: 300;
+    font-family: Source Sans Pro ita;
+}

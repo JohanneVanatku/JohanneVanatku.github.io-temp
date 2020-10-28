@@ -9,6 +9,10 @@ main{
 p{
     padding: 0.2rem;
 }
+i{
+    font-family: Source Sans Pro ita;
+    font-weight: 300;
+}
 figure{
     margin: 0;
     position: relative;
